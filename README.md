@@ -12,8 +12,5 @@
   <a href="https://t.me/sadhutius">
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b9b6f4c8-54ba-436b-811b-51eca2b2dd86" />
 </a>
-</h1>
-<h1 align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVncmxuZXB5Nng2ZTl2MmhiYTRpYjJpdDNxZ2R0bGpmNGs0NWVzdyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/dRvEZLV0ORAmHT1L5u/giphy.gif"/>
-</h1>
+
 
