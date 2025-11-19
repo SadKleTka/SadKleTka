@@ -1,2 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey%20everyone!&fontSize=90" />
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Lets%20connect%20And%20Have%20A%20Chat!&fontSize=40" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
