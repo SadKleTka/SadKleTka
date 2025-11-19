@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
+  <a href="https://t.me/sadhutius">
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b9b6f4c8-54ba-436b-811b-51eca2b2dd86" />
 </a>
 </h1>
