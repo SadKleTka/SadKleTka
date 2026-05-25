@@ -34,7 +34,19 @@
 ![Databases & Infrastructure](https://skillicons.dev/icons?i=postgres,docker,redis,rabbitmq,idea,maven,gradle,git\&theme=dark)
 
 ## 🎯 Projects
-*Coming soon - currently building cool stuff!*
+Bank.EventBus.Core
+A microservice event bus for banking service integration. Designed for reliable asynchronous messaging and distributed task processing.
+
+Features: Message routing between services, background task processing, client API, and a system of independent workers for data consumption.
+
+Tech Stack: C#, .NET, RabbitMQ, Redis, Entity Framework Core, Docker (docker-compose).
+
+Learning Management System (LMS)
+Backend architecture for an educational platform designed to manage the learning process, testing system, and student performance tracking.
+
+Features: Course and lesson management, quiz processing, comment system, and progress tracking. Implemented strict role-based authorization (Admin, Teacher, Student).
+
+Tech Stack: Java, Spring Boot, Spring Security (JWT authentication), Spring Data JPA, Maven.
 
 ## ⭐️ Stats
 <details>
