@@ -18,7 +18,8 @@
 
 ## ✨ About
 - Started my programming journey in 2024 and genuinely enjoying the process.
-- Building full-stack applications while heavily investing in Java ecosystem.
+- Building restfull Api applications while heavily investing in C# or Java ecosystem.
+- Building microservices and arhitecture
 - Focused on backend architecture and scalable solutions.
 - Always learning, always coding.
 
