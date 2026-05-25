@@ -26,7 +26,7 @@
 
 ### Languages & Frameworks
 
-![Languages & Frameworks](https://skillicons.dev/icons?i=java,spring,hibernate\&theme=dark)
+![Languages & Frameworks](https://skillicons.dev/icons?i=java,spring,hibernate,c#,.net\&theme=dark)
 
 ### Databases & Infrastructure
 
