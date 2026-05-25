@@ -26,11 +26,11 @@
 
 ### Languages & Frameworks
 
-![Languages & Frameworks](https://skillicons.dev/icons?i=java,spring,hibernate,c#,.net\&theme=dark)
+![Languages & Frameworks](https://skillicons.dev/icons?i=cs,dotnet,java,spring,hibernate\&theme=dark)
 
 ### Databases & Infrastructure
 
-![Databases & Infrastructure](https://skillicons.dev/icons?i=postgres,docker,maven,gradle,git\&theme=dark)
+![Databases & Infrastructure](https://skillicons.dev/icons?i=postgres,docker,redis,rabbitmq,idea,maven,gradle,git\&theme=dark)
 
 ## 🎯 Projects
 *Coming soon - currently building cool stuff!*
